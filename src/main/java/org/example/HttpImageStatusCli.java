@@ -1,6 +1,5 @@
 package org.example;
 
-import java.net.MalformedURLException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
